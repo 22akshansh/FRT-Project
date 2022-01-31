@@ -8,3 +8,6 @@ I have used machine learning algorithm, KMeans, to extract colors from a given i
 
 Here is a drive link to the video where I have tested and deployed the code on Microsoft Azure Machine Learning Studio.  
 https://drive.google.com/file/d/1IHVfnuCMNoB_RTkrFzq-Ovo9W5TVZlnD/view?usp=sharing
+
+Here is a YouTube link to the video where I have tested and deployed the code on Microsoft Azure Machine Learning Studio.  
+https://youtu.be/TKBH1s_rOak
